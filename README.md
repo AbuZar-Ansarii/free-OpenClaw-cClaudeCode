@@ -8,6 +8,7 @@
 [![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20PC-lightgrey)](https://github.com)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
+
 </div> ```
 
 ## 📋 Table of Contents
